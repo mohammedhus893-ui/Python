@@ -16,6 +16,6 @@ print("Please wait a second...")
 area = length * width
 
 # Display the final result
-print(f"The area of the rectangle is: {area}")
+print(f"The area of the rectangle is: {area} cm² ")
 
 # ========================================================
